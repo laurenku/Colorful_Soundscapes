@@ -3,7 +3,7 @@ App that uses the new Soli radar sensor in the Google Pixel 4 phone. Users use t
 
 The purpose of Colorful Soundscapes is to enhance the user's environment. The app has storm, summer night, ocean, forest, library, party, and driving soundscapes that are interactive with reach and swipe (up, down, right, left) interactions. Sounds are associated with certain colors so the phone can be used as a colorful lamp.
 
-### To run on Google Pixel 4
+## Getting Started on Google Pixel 4
 
 Set up your Google Pixel 4 with [this tutorial](https://atap.google.com/soli/sandbox/learn/#tutorial) on Google ATAP's website.
 
@@ -15,7 +15,7 @@ Open the **Soli Sandbox app** > **Menu** > enter the URL in the **“Open URL or
 
 Ambiance starts when sensor detects your presence. Reach for the phone at least 3 times to add another layer of ambiance. Swipe up and down to adjust volume. Swipe right to add embellished sounds to the soundscape. Swipe left to generate a new soundscape and color.
 
-### To use on desktop
+## To use on desktop
 
 Visit the [live app](https://colorful-soundscapes.glitch.me).
 
