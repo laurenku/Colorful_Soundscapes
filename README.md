@@ -19,7 +19,7 @@ Ambiance starts when sensor detects your presence. Reach for the phone at least 
 
 Visit the [live app](https://colorful-soundscapes.glitch.me).
 
-Press `Esc` to start playing the soundscape. Press `Enter` at least 3 times to add another layer of ambiance. The up and down arrowkeys adjust volume. Press the left arrowkey to add embellished sounds to the soundscape. Press the right arrowkey to generate a new soundscape and color.
+Press `Esc` to start playing the soundscape. Press `Enter` at least 3 times to add another layer of ambiance. The up and down arrowkeys adjust volume. Press the left arrowkey to add embellished sounds to the soundscape. Press the right arrowkey to generate a new soundscape and color. <br /> <br /> <br />
 
 
 This app is hosted on Glitch. [See the project on Glitch.](https://glitch.com/~colorful-soundscapes)
