@@ -9,7 +9,7 @@ This app is hosted on Glitch. [See the project on Glitch.](https://glitch.com/~c
 
 ## Getting Started on Google Pixel 4
 
-Set up your Google Pixel 4 with [this tutorial](https://atap.google.com/soli/sandbox/learn/#tutorial) on Google ATAP's website.
+Set up your Google Pixel 4 with [this tutorial](https://atap.google.com/soli/sandbox/learn/#tutorial-setup) on Google ATAP's website.
 
 Copy the URL for the [live app](https://colorful-soundscapes.glitch.me) hosted on Glitch.
 
