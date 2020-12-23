@@ -3,7 +3,7 @@ App that uses the new Soli radar sensor in the Google Pixel 4 phone. Users use t
 
 The purpose of Colorful Soundscapes is to enhance the user's environment. The app has storm, summer night, ocean, forest, library, party, and driving soundscapes that are interactive with reach and swipe (up, down, right, left) interactions. Sounds are associated with certain colors so the phone can be used as a colorful lamp.
 
-This app is hosted on Glitch. [See the project on Glitch.](https://glitch.com/~colorful-soundscapes)
+This app is hosted on Glitch. [See the project on Glitch.](https://glitch.com/edit/#!/colorful-soundscapes)
 
 [See video documentation.](https://youtu.be/RYiCkA2btBE)
 
